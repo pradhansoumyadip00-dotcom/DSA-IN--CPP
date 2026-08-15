@@ -1,2 +1,2 @@
-# DSA-IN--C-
+# DSA-IN--C++
 DSA practice
